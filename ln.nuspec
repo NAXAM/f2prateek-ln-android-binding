@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.F2prateek.Ln</id>
+        <version>1.1.1</version>
+        <description>Xamarin Binding Library - F2prateek Ln</description>
+        <authors>Vu Duc Tuyen</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - F2prateek Ln</title>
+        <releaseNotes>F2prateek Ln v1.1.1</releaseNotes>
+        <summary>Xamarin Binding Library - F2prateek Ln</summary>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/xand-f2prateek-ln</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, f2prateek-ln</tags>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.F2prateek.Ln/bin/Release/Naxam.F2prateek.Ln.dll" target="lib/MonoAndroid10/Naxam.F2prateek.Ln.dll" />
+    </files>
+</package>
